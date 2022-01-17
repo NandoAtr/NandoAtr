@@ -1,4 +1,4 @@
-### Heyyy, Nando here 👋
+### Hello World, Nando here 👋
 - 👤 19y
 - 🌎 Brazil - Alagoas
 - 😲 I challend myself, I'll learn of zero Python and JavaScript in two months, come with me on my journey 😄 

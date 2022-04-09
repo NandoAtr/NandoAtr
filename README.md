@@ -1,7 +1,7 @@
 ### Hello World, Nando here 👋
 - 👤 19y
 - 🌎 Brazil - Alagoas
-- 😲 I challend myself, I'll learn of zero Python and JavaScript in two months, come with me on my journey 😄 
+- 😲 I challend myself, I'll learn of zero Python and JavaScript in three months, come with me on my journey 😄 
 - ⏱ Day: 3/60
 
 <div align="center">
